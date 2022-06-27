@@ -118,16 +118,3 @@ There are 4 types of predictions:
 **Future Improvements:**
 - Scrape a larger number of posts to train the model
 - In addition to just the title text, include other metadata from Reddit to train the model (e.g. author posting behavior, number of comments etc.)
-
-----
-# References
-
-1. [Kenosha Unrest Shooting][1]
-2. [Let's Go Brandon][2]
-3. [Florida Man][3]
-4. [Nissan Recall][4]
-
-[1]: https://en.wikipedia.org/wiki/Kenosha_unrest_shooting "Title"
-[2]: https://en.wikipedia.org/wiki/Let%27s_Go_Brandon "Title"
-[3]: https://en.wikipedia.org/wiki/Florida_Man "Title"
-[4]: https://www.cnet.com/roadshow/news/nissan-sentra-recall-sedans-brake-lights/ "Title"
